@@ -1,1 +1,1 @@
-# COT2000brichards2014
+This repo contains lab 4 and lab 5 code.
